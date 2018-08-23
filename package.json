@@ -1,0 +1,30 @@
+{
+  "name": "mean-angu-2",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhavinconfuse/MEAN-Stack-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Bhavin Patel ( Confuse don)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavinconfuse/MEAN-Stack-Angular-2/issues"
+  },
+  "homepage": "https://github.com/Bhavinconfuse/MEAN-Stack-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
