@@ -13,7 +13,7 @@ const authentication = require('./routes/authentication')(router);
 const blogs = require('./routes/blogs')(router);
 const bodyParser = require('body-parser');
 const cors =  require('cors');
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8080;
 
 // Databse Connection
 mongoose.Promise = global.Promise;
